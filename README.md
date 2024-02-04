@@ -1,17 +1,36 @@
 <h1 align="center">Hello, I'm Patrik</h1>
-<h3 align="center">A QA engineer and aspiring Java developer</h3>
+<h3 align="center">QA engineer and aspiring Java developer</h3>
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e479icojpuv85fl3dw7micphnyrsy91r40r3fbuuevz&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+</div><br>
 
+<h2 align="center">🌐 Socials</h2>
+<p align="center">
+<a href="https://linkedin.com/in/patrikvojta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrikvojta" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/patvoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patvoj" height="40" width="40" /></a>
+</p><br>
 
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/patrikvojta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrikvojta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/patvoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patvoj" height="30" width="40" /></a>
-</p>
+###
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
+<h2 align="center">💻 Tech Stack</h2>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+</div><br>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=patvoj&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=patvoj&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patvoj&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patvoj&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="145" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=patvoj&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="145" alt="streak graph"  />
+</div>
