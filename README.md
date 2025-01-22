@@ -1,8 +1,3 @@
-### 👋🏻 Hello, I'm Patrik
-
-💻 Junior web developer on a learning journey\
-🩵 Currently learning Go in my spare time
-
 <div>
-  <img height="320" src="https://iili.io/dtJ4DPV.png"  />
+  <img height="480" src="https://images7.memedroid.com/images/UPLOADED781/64e240c8ef6d3.jpeg"  />
 </div>
